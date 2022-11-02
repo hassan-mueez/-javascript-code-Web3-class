@@ -1,0 +1,10 @@
+var places = ["thailand", "austria", "germany", "peru"];
+console.log(places);
+console.log([...places].sort());
+console.log(places);
+console.log(places.reverse());
+console.log(places.reverse());
+places = places.sort();
+console.log(places);
+places = places.reverse();
+console.log(places);

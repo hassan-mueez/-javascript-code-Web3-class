@@ -1,0 +1,1 @@
+console.log("my name is hassan mueez"); //this will simply print the messsage 
